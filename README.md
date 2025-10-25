@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Naseer 👋
 
-<!--
-**Naseer-fez/Naseer-fez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a young tech enthusiast and student, passionate about understanding the technology I use every day. My journey is driven by curiosity and a desire to build solutions for real-world problems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Student, self-learner, and experimenter
+- 🐍 Learning Python & C
+- 🛠️ Love building and tinkering with projects
+- 💡 Always keen to discover how things work
+
+## 💻 What I'm working on
+
+- Exploring programming fundamentals in Python & C
+- Building small projects and automations
+- Documenting what I learn along the way
+
+## 🌱 Goals
+
+- Deepen my understanding of computers and software
+- Solve practical problems with code
+- Connect and collaborate with fellow learners
+
+## 📫 Connect with me
+
+- GitHub: [Naseer-fez](https://github.com/Naseer-fez)
+
+---
+
+Happy coding! 🚀
