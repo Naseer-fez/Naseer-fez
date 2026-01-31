@@ -6,7 +6,6 @@ I'm a young tech enthusiast and student, passionate about understanding the tech
 ## 👨‍💻 About Me
 
 - 🚀 Student, self-learner, and experimenter
-- 🐍 Learning Python & C
 - 🛠️ Love building and tinkering with projects
 - 💡 Always keen to discover how things work
 
