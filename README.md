@@ -8,7 +8,7 @@ I'm a young tech enthusiast and student, passionate about understanding the tech
 - 🚀 Student, self-learner, and experimenter
 - 🛠️ Love building and tinkering with projects
 - 💡 Always keen to discover how things work
-- 😢 Always Strugling to Name The varivles 
+- 😢 Always Thinking what  to Name The Variables
 
 ## 💻 What I'm working on
 
