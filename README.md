@@ -3,7 +3,7 @@
   <img src="./logo.png" alt="Logo" width="150" />
 </p>
 
-# Hi, I'm Naseer <img src="./waving-hand.svg" width="32" height="32" align="center" />
+# Hi, I'm Naseer <img src="./Hi.gif" width="32" height="32" align="center" />
 
 Welcome to my GitHub profile!  
 I'm a young tech enthusiast and student, passionate about understanding the technology I use every day. My journey is driven by curiosity and a desire to build solutions for real-world problems.
